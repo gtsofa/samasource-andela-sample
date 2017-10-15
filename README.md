@@ -1,2 +1,2 @@
 # samasource-andela-sample
-this is my andela sample repo
+Samasource-Andela work goes in here
